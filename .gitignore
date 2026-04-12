@@ -4,3 +4,7 @@ archive
 .env
 materials/.DS_Store
 materials/final_sets/.DS_Store
+materials/saved_images/.DS_Store
+roberta_output
+distilbert_output
+sbert_output
