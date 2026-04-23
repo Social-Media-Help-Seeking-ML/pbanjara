@@ -7,7 +7,7 @@ This part of the project involves data sampling, data labeling, training and eva
 Primary corpus comes from a publicly available dataset on [Hugging Face](https://huggingface.co/datasets/solomonk/reddit_mental_health_posts), which contains approximately 151,000 Reddit posts from five mental health subreddits: depression, PTSD, OCD, ADHD, and Aspergers. 
 
 ## Project Structure
-
+```
 ├── materials/                                          Data files for model training and evaluation
 │   ├── final_sets/                                     Labeled Sets
 │   ├── test_labeled_set.csv
@@ -25,7 +25,7 @@ Primary corpus comes from a publicly available dataset on [Hugging Face](https:/
 ├── model_training.ipynb                                  Model training pipelines
 ├── README.md
 └── topics_risks_integration.ipynb                        Integration pipeline
-
+```
 
 ## Running code
 
