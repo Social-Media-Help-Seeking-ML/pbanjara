@@ -9,4 +9,3 @@ roberta_output
 distilbert_output
 sbert_output
 tmp_trainer
-materials/models_integration/integration_data.csv
