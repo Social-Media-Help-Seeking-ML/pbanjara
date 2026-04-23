@@ -10,16 +10,16 @@ Primary corpus comes from a publicly available dataset on [Hugging Face](https:/
 
 ├── materials/                                          Data files for model training and evaluation
 │   ├── final_sets/                                     Labeled Sets
-|   |   ├── test_labeled_set.csv
-|   |   ├── train_labeled_set.csv
-|   |   ├── val_labeled_set.csv
-|   |      
+│   ├── test_labeled_set.csv
+│   ├── train_labeled_set.csv
+│   ├── val_labeled_set.csv
+│   │      
 │   ├── models_integration/                             Data files for topic and risk integration
-|   |   ├── figure_data_topic_prevalence_over_time.csv
-│   |   ├── integration_with_risk_predictions.csv
-│   |   ├── integration_data.csv
-|   ├── saved_images/ 
-├── .gitignore
+│   │   ├── figure_data_topic_prevalence_over_time.csv
+│   │   ├── integration_with_risk_predictions.csv
+│   │   ├── integration_data.csv
+│   ├── saved_images/ 
+├── gitignore
 ├── exploring_and_sampling.ipynb                          Exploratory Analysis and Sampling
 ├── labeling.ipynb                                        Data labeling using OpenAI API 
 ├── model_training.ipynb                                  Model training pipelines
