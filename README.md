@@ -29,7 +29,7 @@ Primary corpus comes from a publicly available dataset on [Hugging Face](https:/
 
 ## Running code
 
-1. Download the data from this repository by either using git clone `https://github.com/Social-Media-Help-Seeking-ML/pbanjara.git` for HTTPS or using git clone `git@github.com:Social-Media-Help-Seeking-ML/pbanjara.git` for SSH. It can also be downloaded manually by clicking on <strong>Code</strong> >> <strong>Download Zip</strong>.
+1. Download the data from this repository by either using `git clone https://github.com/Social-Media-Help-Seeking-ML/pbanjara.git` for HTTPS or using `git clone git@github.com:Social-Media-Help-Seeking-ML/pbanjara.git` for SSH. It can also be downloaded manually by clicking on <strong>Code</strong> >> <strong>Download Zip</strong>.
 
 2. Create a virtual environment and activate it. 
 
